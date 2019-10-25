@@ -1,0 +1,16 @@
+C:\Users\usuario\Documents\GitHub\TareaNorza\GeekGas\BaseDatos\bin\Debug\BaseDatos.exe.config
+C:\Users\usuario\Documents\GitHub\TareaNorza\GeekGas\BaseDatos\bin\Debug\BaseDatos.exe
+C:\Users\usuario\Documents\GitHub\TareaNorza\GeekGas\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Users\usuario\Documents\GitHub\TareaNorza\GeekGas\BaseDatos\obj\x86\Debug\BaseDatos.Form1.resources
+C:\Users\usuario\Documents\GitHub\TareaNorza\GeekGas\BaseDatos\obj\x86\Debug\BaseDatos.Properties.Resources.resources
+C:\Users\usuario\Documents\GitHub\TareaNorza\GeekGas\BaseDatos\obj\x86\Debug\BaseDatos.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\GitHub\TareaNorza\GeekGas\BaseDatos\obj\x86\Debug\BaseDatos.exe
+C:\Users\usuario\Documents\GitHub\TareaNorza\GeekGas\BaseDatos\obj\x86\Debug\BaseDatos.pdb
+C:\Users\Francisco\Pictures\ProyectoNorza\GeekGas\BaseDatos\bin\Debug\BaseDatos.exe.config
+C:\Users\Francisco\Pictures\ProyectoNorza\GeekGas\BaseDatos\bin\Debug\BaseDatos.exe
+C:\Users\Francisco\Pictures\ProyectoNorza\GeekGas\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Users\Francisco\Pictures\ProyectoNorza\GeekGas\BaseDatos\obj\x86\Debug\BaseDatos.Form1.resources
+C:\Users\Francisco\Pictures\ProyectoNorza\GeekGas\BaseDatos\obj\x86\Debug\BaseDatos.Properties.Resources.resources
+C:\Users\Francisco\Pictures\ProyectoNorza\GeekGas\BaseDatos\obj\x86\Debug\BaseDatos.csproj.GenerateResource.Cache
+C:\Users\Francisco\Pictures\ProyectoNorza\GeekGas\BaseDatos\obj\x86\Debug\BaseDatos.exe
+C:\Users\Francisco\Pictures\ProyectoNorza\GeekGas\BaseDatos\obj\x86\Debug\BaseDatos.pdb

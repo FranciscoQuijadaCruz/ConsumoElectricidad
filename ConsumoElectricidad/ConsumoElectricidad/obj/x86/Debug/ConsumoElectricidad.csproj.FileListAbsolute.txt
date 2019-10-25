@@ -1,0 +1,24 @@
+C:\Users\Reynaldo Ayala\Documents\Universidad\Septimo Semestre\Optativa II\Proyectos\ConsumoElectricidad\ConsumoElectricidad\bin\Debug\ConsumoElectricidad.exe.config
+C:\Users\Reynaldo Ayala\Documents\Universidad\Septimo Semestre\Optativa II\Proyectos\ConsumoElectricidad\ConsumoElectricidad\bin\Debug\ConsumoElectricidad.exe
+C:\Users\Reynaldo Ayala\Documents\Universidad\Septimo Semestre\Optativa II\Proyectos\ConsumoElectricidad\ConsumoElectricidad\bin\Debug\ConsumoElectricidad.pdb
+C:\Users\Reynaldo Ayala\Documents\Universidad\Septimo Semestre\Optativa II\Proyectos\ConsumoElectricidad\ConsumoElectricidad\obj\x86\Debug\ConsumoElectricidad.Form1.resources
+C:\Users\Reynaldo Ayala\Documents\Universidad\Septimo Semestre\Optativa II\Proyectos\ConsumoElectricidad\ConsumoElectricidad\obj\x86\Debug\ConsumoElectricidad.Properties.Resources.resources
+C:\Users\Reynaldo Ayala\Documents\Universidad\Septimo Semestre\Optativa II\Proyectos\ConsumoElectricidad\ConsumoElectricidad\obj\x86\Debug\ConsumoElectricidad.vtnUsuarios.resources
+C:\Users\Reynaldo Ayala\Documents\Universidad\Septimo Semestre\Optativa II\Proyectos\ConsumoElectricidad\ConsumoElectricidad\obj\x86\Debug\ConsumoElectricidad.csproj.GenerateResource.Cache
+C:\Users\Reynaldo Ayala\Documents\Universidad\Septimo Semestre\Optativa II\Proyectos\ConsumoElectricidad\ConsumoElectricidad\obj\x86\Debug\ConsumoElectricidad.exe
+C:\Users\Reynaldo Ayala\Documents\Universidad\Septimo Semestre\Optativa II\Proyectos\ConsumoElectricidad\ConsumoElectricidad\obj\x86\Debug\ConsumoElectricidad.pdb
+C:\Users\Reynaldo Ayala\Documents\Universidad\Septimo Semestre\Optativa II\Proyectos\ConsumoElectricidad\ConsumoElectricidad\obj\x86\Debug\ConsumoElectricidad.vtnLecturas.resources
+C:\Users\Reynaldo Ayala\Documents\Universidad\Septimo Semestre\Optativa II\Proyectos\ConsumoElectricidad\ConsumoElectricidad\obj\x86\Debug\ConsumoElectricidad.csprojResolveAssemblyReference.cache
+C:\Users\Reynaldo Ayala\Documents\Universidad\Septimo Semestre\Optativa II\Proyectos\ConsumoElectricidad\ConsumoElectricidad\obj\x86\Debug\ConsumoElectricidad.ReportViewer.resources
+C:\Users\Francisco\Documents\Visual Studio 2010\Projects\RANDOM-PROJECTS\ConsumoElectricidad\ConsumoElectricidad\bin\Debug\ConsumoElectricidad.exe.config
+C:\Users\Francisco\Documents\Visual Studio 2010\Projects\RANDOM-PROJECTS\ConsumoElectricidad\ConsumoElectricidad\obj\x86\Debug\ConsumoElectricidad.exe
+C:\Users\Francisco\Documents\Visual Studio 2010\Projects\RANDOM-PROJECTS\ConsumoElectricidad\ConsumoElectricidad\obj\x86\Debug\ConsumoElectricidad.pdb
+C:\Users\Francisco\Documents\Visual Studio 2010\Projects\RANDOM-PROJECTS\ConsumoElectricidad\ConsumoElectricidad\bin\Debug\ConsumoElectricidad.exe
+C:\Users\Francisco\Documents\Visual Studio 2010\Projects\RANDOM-PROJECTS\ConsumoElectricidad\ConsumoElectricidad\bin\Debug\ConsumoElectricidad.pdb
+C:\Users\Francisco\Documents\Visual Studio 2010\Projects\RANDOM-PROJECTS\ConsumoElectricidad\ConsumoElectricidad\obj\x86\Debug\ConsumoElectricidad.csprojResolveAssemblyReference.cache
+C:\Users\Francisco\Documents\Visual Studio 2010\Projects\RANDOM-PROJECTS\ConsumoElectricidad\ConsumoElectricidad\obj\x86\Debug\ConsumoElectricidad.Form1.resources
+C:\Users\Francisco\Documents\Visual Studio 2010\Projects\RANDOM-PROJECTS\ConsumoElectricidad\ConsumoElectricidad\obj\x86\Debug\ConsumoElectricidad.Properties.Resources.resources
+C:\Users\Francisco\Documents\Visual Studio 2010\Projects\RANDOM-PROJECTS\ConsumoElectricidad\ConsumoElectricidad\obj\x86\Debug\ConsumoElectricidad.ReportViewer.resources
+C:\Users\Francisco\Documents\Visual Studio 2010\Projects\RANDOM-PROJECTS\ConsumoElectricidad\ConsumoElectricidad\obj\x86\Debug\ConsumoElectricidad.vtnLecturas.resources
+C:\Users\Francisco\Documents\Visual Studio 2010\Projects\RANDOM-PROJECTS\ConsumoElectricidad\ConsumoElectricidad\obj\x86\Debug\ConsumoElectricidad.vtnUsuarios.resources
+C:\Users\Francisco\Documents\Visual Studio 2010\Projects\RANDOM-PROJECTS\ConsumoElectricidad\ConsumoElectricidad\obj\x86\Debug\ConsumoElectricidad.csproj.GenerateResource.Cache
